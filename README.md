@@ -3,7 +3,7 @@ This Japanese proceeding paper [Model Construction for Super Resolution by Using
 
 ### Citation
 ```
-Bowen Zhang / 張伯聞, Masahiro Tanaka / 田中雅博, "Model Construction for Super Resolution by Using Attention Mechanism / 超解像のためのAttention機構を用いたモデルの構築," ISCIE the 65th Annual Conference of the Institute of Systemsm Control and Information Engineers / 第65回システム制御情報学会研究発表講演会, pp. 530-533, 2021.
+Bowen Zhang / 張伯聞, Masahiro Tanaka / 田中雅博, "Model Construction for Super Resolution by Using Attention Mechanism / 超解像のためのAttention機構を用いたモデルの構築," Proceedings of ISCIE the 65th Annual Conference of the Institute of Systemsm Control and Information Engineers / 第65回システム制御情報学会研究発表講演会, pp. 530-533, 2021.
 ```
 
 In this work, we propose a convolutional neural network structure by adding soft-attention mechanism to be used for super resolution task, where the filters of different sizes in parallel are used to extract the multi-scale features. 
